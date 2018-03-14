@@ -1,7 +1,7 @@
 Regler för frisbee ultimate
 ===========================
 
-Det har saknats regler för Frisbee Ultimate på svenska för inomhusspel. [ultimateregler.github.io](http://ultimateregler.github.io) 
+Det har saknats regler för Frisbee Ultimate på svenska för inomhusspel. [colmsjo.com/ultimateregler](http://colmsjo.com/ultimateregler/) 
 innehåller en översättning av WFDF:s regulesummering samt några vanliga undantag som används i Sverige vid inomhusturneringar.
 
 Det finns också möjligheten att [diskutera](https://github.com/ultimateregler/ultimateregler.github.io/issues/) förslag på förändringar etc.
